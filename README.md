@@ -1,2 +1,2 @@
-# test-github
+# test-local
 мой пробный репозиторий
